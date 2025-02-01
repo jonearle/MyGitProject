@@ -11,3 +11,5 @@ Tasks:
 Caleb: Addition and Subtraction functions
 
 Jon: Multiplication and Division functions
+
+Run Instructions: Execute 'main.py' to run the calculations
